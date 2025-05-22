@@ -293,7 +293,7 @@ export default function AboutPage() {
                     />
                   </div>
                   <h3 className="text-xl font-semibold mb-1 text-gray-900">
-                    Budi Setiawan
+                    arlo alexander
                   </h3>
                   <p className="text-indigo-600 font-medium mb-4">
                     Founder & CEO
@@ -343,7 +343,7 @@ export default function AboutPage() {
                     />
                   </div>
                   <h3 className="text-xl font-semibold mb-1 text-gray-900">
-                    Andi Wijaya
+                    steven william
                   </h3>
                   <p className="text-teal-600 font-medium mb-4">
                     Manajer Keberlanjutan
